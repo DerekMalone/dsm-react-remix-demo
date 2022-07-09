@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 export default function increment() {
+  // eslint-disable-next-line react-hooks/rules-of-hooks
   const [counter, setCounter] = useState(0);
 
   const onClickIncrement = () => {
