@@ -1,8 +1,8 @@
 {
-  "name": "next-firebase-starter",
+  "name": "dsm-next-firebase-starter",
   "private": true,
   "version": "1.0.0",
-  "author": "Trinity Christiana",
+  "author": "Derek Malone",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
